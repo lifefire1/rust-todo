@@ -1,3 +1,4 @@
+mod todo;
 struct Todo {
     username: String,
     title: String,
