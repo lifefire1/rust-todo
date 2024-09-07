@@ -7,7 +7,9 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7111088f-26cf-464d-aba8-e6be794075f4" name="Changes" comment="feat(todo-struct) added todo struct" />
+    <list default="true" id="7111088f-26cf-464d-aba8-e6be794075f4" name="Changes" comment="feat(todo-struct) added todo struct">
+      <change afterPath="$PROJECT_DIR$/src/handlers/post_todo.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
